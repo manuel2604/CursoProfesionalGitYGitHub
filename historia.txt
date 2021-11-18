@@ -3,3 +3,5 @@ Tiene 28 años
 Nació en Riosucio, Caldas.
 
 Mide 1.86 metros.
+
+Es estudiante y trabaja como desarrollador.
